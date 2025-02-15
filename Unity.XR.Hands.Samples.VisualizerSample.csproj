@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Samples\XR Hands\1.4.3\HandVisualizer\Scripts\HandVisualizer.cs" />
     <Compile Include="Assets\Samples\XR Hands\1.4.3\HandVisualizer\Scripts\HandProcessor.cs" />
+    <Compile Include="Assets\Samples\XR Hands\1.4.3\HandVisualizer\Scripts\JointVisualizer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\XR Hands\1.4.3\HandVisualizer\Unity.XR.Hands.Samples.VisualizerSample.asmdef" />
