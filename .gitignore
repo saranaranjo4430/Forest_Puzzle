@@ -1,0 +1,12 @@
+# Unity-specific ignores
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+.DS_Store
+.idea/
+.vscode/
+*.apk
